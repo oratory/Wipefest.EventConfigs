@@ -15,7 +15,7 @@
   {
     "id": "ED",
     "name": "Echoes of Doom",
-    "tags": [ "add", "ability" ],
+    "tags": [ "boss", "ability" ],
     "show": true,
     "eventType": "ability",
     "filter": {
