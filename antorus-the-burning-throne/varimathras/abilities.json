@@ -11,5 +11,18 @@
         "id": 243999
       }
     }
+  },
+  {
+    "id": "ED",
+    "name": "Echoes of Doom",
+    "tags": [ "add", "ability" ],
+    "show": true,
+    "eventType": "ability",
+    "filter": {
+      "type": "cast",
+      "ability": {
+        "id": 248732
+      }
+    }
   }
 ]
