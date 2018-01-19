@@ -19,7 +19,7 @@
     "show": true,
     "eventType": "ability",
     "filter": {
-      "type": "cast",
+      "type": "damage",
       "ability": {
         "id": 248732
       }
